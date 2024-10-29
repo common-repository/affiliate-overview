@@ -1,0 +1,50 @@
+.rightgray
+{
+    color:Gray;
+    text-align:right;
+}
+.center
+{
+   text-align:center;
+}
+.gerade td
+{
+    background-color: #e3edfc;
+}
+
+.ungerade td
+{
+    background-color: white;
+}
+
+.header th
+{
+    background-color:Gray;
+    height: 25px;
+    color: White;
+}
+
+.bold
+{
+    font-weight:bold;
+}
+
+.open
+{
+    color:Orange;
+}
+
+.confirmed
+{
+    color:Green
+}
+
+.canceled
+{
+    color:Red;
+}
+
+.other
+{
+    color:Black;
+}
